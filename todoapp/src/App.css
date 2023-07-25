@@ -1,0 +1,111 @@
+    /* /* .App {
+      text-align: center;
+    }
+
+    .App-logo {
+      height: 40vmin;
+      pointer-events: none;
+    }
+
+    @media (prefers-reduced-motion: no-preference) {
+      .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+      }
+    }
+
+    .App-header {
+      background-color: #282c34;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-size: calc(10px + 2vmin);
+      color: white;
+    }
+
+    .App-link {
+      color: #61dafb;
+    }
+
+    @keyframes App-logo-spin {
+      from {
+        transform: rotate(0deg);
+      }
+      to {
+        transform: rotate(360deg);
+      }
+    } */
+    /* .mainContainer{
+      text-align: center;
+      background-color: CYAN;
+      width: 82%;
+      height: 10rem;
+      margin: 0 auto;
+    }
+    .subContainer{
+      background-color: cyan;
+      text-align: center;
+      width: 60%;
+      height: 2rem;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      }
+      .inputfield{
+        width: 25%;
+        height: 2rem;
+        border-radius: 2px;
+      } */
+
+    /* Tab Container */
+    /* .Tabs{
+      width: 80%;
+      height: auto;
+      /* background: cyan; */
+      /* margin: 0 auto; */
+      /* padding: 2rem 1rem; */
+    /* } */
+    /* Tab Navigation */
+    /* ul.nav {
+      width: 60%;
+      margin: 0 auto 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      color: black;
+      list-style: none;
+    }
+    ul.nav li {
+      width: 50%;
+      padding: 1rem;
+      text-align: center;
+    }
+    .subcontain1{
+      width: 60%;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      flex-direction: row;
+    }
+
+  ul.nav {
+    width: 80%;
+    margin: 0 auto 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid black;
+  }
+  ul.nav li {
+    width: 80%;
+    padding: 1rem;
+    list-style: none;
+    text-align: center;
+    cursor: pointer;
+   }
+  ul.nav li:hover {
+    background: rgb(227, 216, 216);
+    border: 1px solid black;
+  } */
